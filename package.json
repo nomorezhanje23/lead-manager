@@ -1,0 +1,12 @@
+{
+  "name": "lead-manager",
+  "version": "1.0.0",
+  "description": "Lead Management API and frontend assessment",
+  "license": "ISC",
+  "author": "Nomore T. Zhanje",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
